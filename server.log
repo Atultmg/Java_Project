@@ -1,8 +1,0 @@
-INFO  - Server started successfully
-INFO  - User Alice logged in
-ERROR - Database connection failed
-INFO  - User Bob logged in
-ERROR - Null pointer exception in UserService
-INFO  - File uploaded successfully
-ERROR - Timeout while connecting to API
-INFO  - Server running normally

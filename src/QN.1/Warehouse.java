@@ -2,6 +2,8 @@ public class Warehouse {
     public static void main(String[] args) {
         ColdBox box = new ColdBox(101, 50.0, 4);
         System.out.println(box);
+
+        // hello sir
         box.adjustTemp(-18);
         System.out.println(box);
 
